@@ -54,8 +54,8 @@ span {
 
 .contact {
     padding: 10px 28px;
-    background-color: #fff;
-    color: #000;
+    background-color: rgb(43, 68, 60);
+    color: #fff;
     border: 2px solid transparent;
     border-radius: 8px;
     font-size: 16px;
@@ -65,8 +65,9 @@ span {
 }
 
 .contact:hover {
-    background: rgb(43, 68, 60);
-    color: #fff;
+    background: #fff;
+    color: rgb(43, 68, 60);
+    border: 2px solid rgb(43, 68, 60);
 }
 
 .about {
